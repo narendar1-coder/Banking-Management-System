@@ -135,5 +135,3 @@ This project is licensed under the MIT License.
 
 ## Author
 Narendar Maddula
-
-Narendar Maddula
